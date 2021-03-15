@@ -1,0 +1,4 @@
+export const SET_PAGE_NUMBER = 'SET_PAGE_NUMBER';
+export const DEFINE_SORTING = 'DEFINE_SORTING';
+export const SET_FILTER = 'SET_FILTER';
+export const SET_ROWS_PER_PAGE = 'SET_ROWS_PER_PAGE';
