@@ -1,0 +1,13 @@
+#options {
+  margin: 0 10px;
+}
+
+#slider {
+  margin: 20px;
+}
+
+#example {
+  margin: 10px;
+  padding: 10px;
+  border: black solid 1px;
+}
